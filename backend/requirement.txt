@@ -1,0 +1,7 @@
+django
+djangorestframework
+django-cors-headers
+beautifulsoup4
+djangorestframework-simplejwt
+keras
+tensorflow 
